@@ -1,0 +1,29 @@
+/* Submenu Box Styles */
+.smb-menu {
+	position: relative; /* Required */
+}
+.smb-menu .smb-parent {
+	/*display: block; */
+	position: relative; /* Required */
+	height: 40px; /* Required for IE6 */
+}
+.smb-menu .smb-parent-link {
+	display: block;
+	padding: 12px 38px 12px 25px;
+	text-decoration: none;
+	border-bottom: 1px dotted #fff;
+	position: relative;
+}
+.smb-menu .smb-hover .smb-parent-link {
+	background: #D3D3D3;
+}
+
+/* Submenu container */
+.smb-menu .smb-sub-container {
+	position: absolute; /* Required */
+	background: #FF4500;
+	padding: 5px;
+}
+.smb-menu .smb-sub-container .smb-sub {
+	background: #fff;
+}
