@@ -1,5 +1,6 @@
 /*
  * Submenu Box 1.0.0
+ * http://github.com/nak0yui/submenubox
  * 
  * Copyright nak0yui.
  * 
